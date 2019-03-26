@@ -8,7 +8,7 @@ This repository hosts a public copy of the assignment write-ups for this course 
 - [Assignment 0221](./encoding2.md) Encoding drills 2
 - [Assignment 0309](./encoding3.md) Encoding drills 3
 - [Assignment 0326](./oh-say-can-you-c.md) C programs 1: “Oh Say Can You C” (extended to 0328)
-- **Assignment 0404** C programs 2: “From C to Shining C”
+- [Assignment 0404](./from-c-to-shining-c.md) C programs 2: “From C to Shining C”
 - **Assignment 0416** Assembly language programs 1
 - **Assignment 0425** Assembly language programs 2
 - **Assignment 0507** Mixed language programs
